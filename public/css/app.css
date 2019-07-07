@@ -8420,6 +8420,7 @@ footer {
   border-top: 1px solid #eaeaea;
   color: #777;
   /* forms */
+  /* Users edit */
 }
 
 footer a {
@@ -8509,5 +8510,15 @@ footer input {
 
 footer .panel {
   margin-top: 50px;
+}
+
+footer .gravatar_edit {
+  margin: 15px auto;
+  text-align: center;
+}
+
+footer .gravatar_edit .gravatar {
+  float: none;
+  max-width: 100px;
 }
 
